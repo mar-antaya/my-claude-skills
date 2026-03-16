@@ -1,6 +1,6 @@
 # the Claude skills I can't build without anymore
 
-> 6 production-ready Claude Code skills I use daily as an AI engineer.
+> 6 production-ready Claude Code skills I use daily as girl in AI/ML
 > Every single one of these has saved me hours on real projects.
 
 ---
